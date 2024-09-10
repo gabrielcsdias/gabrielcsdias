@@ -57,6 +57,8 @@ Here are some ideas to get you started:
   </a>
 </div> -->
 
+<h3 align="left">💬 Social:</h3>
+
 <div> 
   <a href="[https://instagram.com/rafaballerini](https://www.instagram.com/g4bb.cs/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gc7601700@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
